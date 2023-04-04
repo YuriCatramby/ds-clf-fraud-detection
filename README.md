@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/YuriCatramby/ds-clf-marketing-campaign/blob/main/img_fraud_detection.png" alt="target" width="700">
+<p align="center"><img src="https://github.com/YuriCatramby/Image/blob/main/img_fraud_detection.png" alt="img_fraud_detection" width="700">
 </p>
 
 # Machine Learning for Fraud Detection
